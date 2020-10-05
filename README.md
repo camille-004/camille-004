@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on some fun and ambitious projects including a deep learning library and a programming language.
 - 🌱 I’m currently learning data analysis, machine learning, and mathematics.
 - 👯 I’m looking to collaborate on Data Science projects.
-- 📫 How to reach me: through my [personal website](camille-dunning.com)!
+- 📫 How to reach me: through my [personal website](https://camille-dunning.com)!
 - ⚡ Fun fact: Programming is cool and all but I'm a cat mom first.
