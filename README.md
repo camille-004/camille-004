@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: through my [personal website](https://camille-004.github.io)!
 - ⚡ Fun fact: Programming is cool and all but I'm a cat mom first.
 
+### Well, I like GitHub.
 ![Cam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camille-004)
