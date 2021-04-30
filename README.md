@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some fun and ambitious projects including a deep learning library and a programming language.
+- 🔭 I’m currently working on reinforcement learning and NLP research. I also have an NLP startup.
 - 🌱 I’m currently learning data analysis, machine learning, and mathematics.
 - 👯 I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me: through my [personal website](https://camille-004.github.io)!
