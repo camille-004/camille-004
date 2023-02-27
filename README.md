@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 Fourth-year undergraduate at UCSD studying data science.
 
-### Well, I like GitHub.
+### Stats for nerds
 ![Cam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camille-004)
