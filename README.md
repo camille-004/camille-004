@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fourth-year undergraduate at UCSD studying data science.
+Fourth-year undergraduate at UCSD studying Data Science.
 
 ### Stats for nerds
 ![Cam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camille-004)
