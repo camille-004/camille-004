@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fourth-year undergraduate at UCSD studying Data Science.
+Deep Learning Compiler Engineer at NVIDIA.
 
 ### Stats for nerds
 ![Cam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=camille-004)
